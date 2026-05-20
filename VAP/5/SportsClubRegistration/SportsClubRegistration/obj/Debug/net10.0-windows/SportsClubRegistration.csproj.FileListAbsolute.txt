@@ -1,0 +1,16 @@
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\bin\Debug\net10.0-windows\SportsClubRegistration.exe
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\bin\Debug\net10.0-windows\SportsClubRegistration.deps.json
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\bin\Debug\net10.0-windows\SportsClubRegistration.runtimeconfig.json
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\bin\Debug\net10.0-windows\SportsClubRegistration.dll
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\bin\Debug\net10.0-windows\SportsClubRegistration.pdb
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.Form1.resources
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.csproj.GenerateResource.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.dll
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\refint\SportsClubRegistration.dll
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.pdb
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\SportsClubRegistration.genruntimeconfig.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\SportsClubRegistration\SportsClubRegistration\obj\Debug\net10.0-windows\ref\SportsClubRegistration.dll

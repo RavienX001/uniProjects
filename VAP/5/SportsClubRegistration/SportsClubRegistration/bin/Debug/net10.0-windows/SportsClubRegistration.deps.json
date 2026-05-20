@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SportsClubRegistration/1.0.0": {
+        "runtime": {
+          "SportsClubRegistration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SportsClubRegistration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

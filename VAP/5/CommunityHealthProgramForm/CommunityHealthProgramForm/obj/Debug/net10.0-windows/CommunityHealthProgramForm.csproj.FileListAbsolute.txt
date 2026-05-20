@@ -1,0 +1,16 @@
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\bin\Debug\net10.0-windows\CommunityHealthProgramForm.exe
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\bin\Debug\net10.0-windows\CommunityHealthProgramForm.deps.json
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\bin\Debug\net10.0-windows\CommunityHealthProgramForm.runtimeconfig.json
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\bin\Debug\net10.0-windows\CommunityHealthProgramForm.dll
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\bin\Debug\net10.0-windows\CommunityHealthProgramForm.pdb
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.Form1.resources
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.csproj.GenerateResource.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.csproj.CoreCompileInputs.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.dll
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\refint\CommunityHealthProgramForm.dll
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.pdb
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\CommunityHealthProgramForm.genruntimeconfig.cache
+C:\Users\Ishcharya\Desktop\lab5VAP\CommunityHealthProgramForm\CommunityHealthProgramForm\obj\Debug\net10.0-windows\ref\CommunityHealthProgramForm.dll
