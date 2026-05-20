@@ -1,0 +1,14 @@
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\bin\Debug\net10.0\mathHelper.exe
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\bin\Debug\net10.0\mathHelper.deps.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\bin\Debug\net10.0\mathHelper.runtimeconfig.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\bin\Debug\net10.0\mathHelper.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\bin\Debug\net10.0\mathHelper.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.csproj.CoreCompileInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\refint\mathHelper.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\mathHelper.genruntimeconfig.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\mathHelper\mathHelper\obj\Debug\net10.0\ref\mathHelper.dll

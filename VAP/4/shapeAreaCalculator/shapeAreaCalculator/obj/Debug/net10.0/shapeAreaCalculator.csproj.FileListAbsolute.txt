@@ -1,0 +1,4 @@
+C:\Users\Ishcharya\Desktop\ict24861 lab4\shapeAreaCalculator\shapeAreaCalculator\obj\Debug\net10.0\shapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\ict24861 lab4\shapeAreaCalculator\shapeAreaCalculator\obj\Debug\net10.0\shapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\shapeAreaCalculator\shapeAreaCalculator\obj\Debug\net10.0\shapeAreaCalculator.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\ict24861 lab4\shapeAreaCalculator\shapeAreaCalculator\obj\Debug\net10.0\shapeAreaCalculator.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\bin\Debug\net10.0\FindPositiveNumbers.exe
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\bin\Debug\net10.0\FindPositiveNumbers.deps.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\bin\Debug\net10.0\FindPositiveNumbers.runtimeconfig.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\bin\Debug\net10.0\FindPositiveNumbers.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\bin\Debug\net10.0\FindPositiveNumbers.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\refint\FindPositiveNumbers.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\FindPositiveNumbers.genruntimeconfig.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\FindPositiveNumbers\FindPositiveNumbers\obj\Debug\net10.0\ref\FindPositiveNumbers.dll

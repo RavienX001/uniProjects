@@ -1,0 +1,14 @@
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\bin\Debug\net10.0\vehicals.exe
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\bin\Debug\net10.0\vehicals.deps.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\bin\Debug\net10.0\vehicals.runtimeconfig.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\bin\Debug\net10.0\vehicals.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\bin\Debug\net10.0\vehicals.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.csproj.CoreCompileInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\refint\vehicals.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\vehicals.genruntimeconfig.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\vehicals\vehicals\obj\Debug\net10.0\ref\vehicals.dll

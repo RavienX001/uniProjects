@@ -1,0 +1,14 @@
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\bin\Debug\net10.0\temparatureInterpreter.exe
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\bin\Debug\net10.0\temparatureInterpreter.deps.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\bin\Debug\net10.0\temparatureInterpreter.runtimeconfig.json
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\bin\Debug\net10.0\temparatureInterpreter.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\bin\Debug\net10.0\temparatureInterpreter.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.AssemblyInfoInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.AssemblyInfo.cs
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\refint\temparatureInterpreter.dll
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.pdb
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\temparatureInterpreter.genruntimeconfig.cache
+C:\Users\Ishcharya\Desktop\ict24861 lab4\temparatureInterpreter\temparatureInterpreter\obj\Debug\net10.0\ref\temparatureInterpreter.dll
