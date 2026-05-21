@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures and Algorithems codes.iml" filepath="$PROJECT_DIR$/Data Structures and Algorithems codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting techniques/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/sorting techniques/bubbleSort/bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting techniques/insetionSort/insetionSort.iml" filepath="$PROJECT_DIR$/sorting techniques/insetionSort/insetionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting techniques/selectionSort/selectionSort.iml" filepath="$PROJECT_DIR$/sorting techniques/selectionSort/selectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting techniques/sorting techniques.iml" filepath="$PROJECT_DIR$/sorting techniques/sorting techniques.iml" />
+    </modules>
+  </component>
+</project>

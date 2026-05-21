@@ -1,0 +1,10 @@
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\bin\Debug\identityDataRetrivalForm.exe.config
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\bin\Debug\identityDataRetrivalForm.exe
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\bin\Debug\identityDataRetrivalForm.pdb
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.csprojAssemblyReference.cache
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.Form1.resources
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.Properties.Resources.resources
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.csproj.GenerateResource.cache
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.csproj.CoreCompileInputs.cache
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.exe
+C:\Users\ICT-LAPTOP\Desktop\lab6_VAP\New folder\identityDataRetrivalForm\identityDataRetrivalForm\obj\Debug\identityDataRetrivalForm.pdb
